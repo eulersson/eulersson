@@ -26,8 +26,6 @@ These days, I enjoy working across the stack — from real-time APIs in Go or Py
 **DBs & Queues:** PostgreSQL, Redis, MongoDB, Celery  
 **Other areas:** WebGL, TensorFlow, OpenGL, Neo4j, SAML/OAuth/OpenID
 
----
-
 GitHub stats:
 
 [![Number of years at GitHub](https://badges.strrl.dev/years/eulersson)](#)
@@ -48,7 +46,7 @@ When I can choose, it would be...
 [![](https://img.shields.io/badge/Web%20Browser-Firefox-informational?style=flat&&color=2bbc8a&logo=firefoxbrowser)](#)
 [![](https://img.shields.io/badge/Theme-tokyonight-informational?style=flat&&color=2bbc8a&logo=awesomelists)](https://github.com/folke/tokyonight.nvim)
 
----
+## 💡 Some Projects
 
 | ![Website](https://www.ramn.dev/work/ramn-dev/opengraph-image) | ![Watchity](https://www.ramn.dev/work/watchity/opengraph-image) |
 | -- | -- |
