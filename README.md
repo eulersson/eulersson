@@ -28,6 +28,29 @@ These days, I enjoy working across the stack — from real-time APIs in Go or Py
 
 ---
 
+GitHub stats:
+
+[![Number of years at GitHub](https://badges.strrl.dev/years/eulersson)](#)
+[![Number of public repositories](https://badges.strrl.dev/repos/erikw)](https://github.com/eulersson?tab=repositories)
+[![Number of public Gists](https://badges.strrl.dev/gists/erikw)](https://gist.github.com/eulersson)
+[![All contributions](https://badges.strrl.dev/contributions/all/eulersson)](#)
+[![Total commits](https://badges.strrl.dev/commits/all/eulersson)](#)
+[![Total issues](https://badges.strrl.dev/issues/all/eulersson)](#)
+[![Total PRs](https://badges.strrl.dev/prs/all/eulersson)](#)
+
+When I can choose, it would be...
+
+<!-- Logos from https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
+[![](https://img.shields.io/badge/OS-Linux/macOS-informational?style=flat&color=2bbc8a&logo=archlinux)](#)
+[![](https://img.shields.io/badge/Mobile%20OS-iOS-informational?style=flat&color=2bbc8a&logo=android)](#)
+[![](https://img.shields.io/badge/Editor-Neovim,%20VSCode-informational?style=flat&&color=2bbc8a&logo=neovim)](#)
+[![](https://img.shields.io/badge/Indentation-\\t-informational?style=flat&&color=2bbc8a&logo=accenture)](#)
+[![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&&color=2bbc8a&logo=gnubash)](#)
+[![](https://img.shields.io/badge/Web%20Browser-Firefox-informational?style=flat&&color=2bbc8a&logo=firefoxbrowser)](#)
+[![](https://img.shields.io/badge/Theme-tokyonight-informational?style=flat&&color=2bbc8a&logo=awesomelists)](https://github.com/folke/tokyonight.nvim)
+
+---
+
 You’ll find some of my work here — bits and pieces, demos, side projects, notes. Feel free to explore or reach out if something sparks your interest.
 
 Thanks for stopping by 👋
