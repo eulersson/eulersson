@@ -44,7 +44,6 @@ When I can choose, it would be...
 [![](https://img.shields.io/badge/OS-Linux/macOS-informational?style=flat&color=2bbc8a&logo=archlinux)](#)
 [![](https://img.shields.io/badge/Mobile%20OS-iOS-informational?style=flat&color=2bbc8a&logo=android)](#)
 [![](https://img.shields.io/badge/Editor-Neovim,%20VSCode-informational?style=flat&&color=2bbc8a&logo=neovim)](#)
-[![](https://img.shields.io/badge/Indentation-\\t-informational?style=flat&&color=2bbc8a&logo=accenture)](#)
 [![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&&color=2bbc8a&logo=gnubash)](#)
 [![](https://img.shields.io/badge/Web%20Browser-Firefox-informational?style=flat&&color=2bbc8a&logo=firefoxbrowser)](#)
 [![](https://img.shields.io/badge/Theme-tokyonight-informational?style=flat&&color=2bbc8a&logo=awesomelists)](https://github.com/folke/tokyonight.nvim)
