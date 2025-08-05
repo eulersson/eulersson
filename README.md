@@ -50,6 +50,12 @@ When I can choose, it would be...
 
 ---
 
+| ![Website](https://www.ramn.dev/work/ramn-dev/opengraph-image) | ![Watchity](https://www.ramn.dev/work/watchity/opengraph-image) |
+| -- | -- |
+| ![DreamDrugs](https://www.ramn.dev/work/dreamdrugs/opengraph-image)  | ![Taconez](https://www.ramn.dev/work/taconez/opengraph-image)  |
+
+---
+
 You’ll find some of my work here — bits and pieces, demos, side projects, notes. Feel free to explore or reach out if something sparks your interest.
 
 Thanks for stopping by 👋
